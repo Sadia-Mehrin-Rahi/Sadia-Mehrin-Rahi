@@ -111,15 +111,11 @@ Article: [Understanding XSS in Depth: Practical Attacks & Analysis Using DVWA](h
   <img src="https://streak-stats.demolab.com?user=sadia-mehrin-rahi&hide_border=true&border_radius=14&background=1E293B&ring=7FA99B&fire=A7C4B5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A7C4B5&sideLabels=94A3B8&dates=CBD5E1&stroke=334155" />
 </p>
 
-<!--
-  Stats + top languages cards: the public github-readme-stats server is often down.
-  After deploying your own copy on Vercel, replace YOUR-STATS-URL and remove these comment markers.
-
 <p align="center">
-  <img height="170" src="https://YOUR-STATS-URL/api?username=sadia-mehrin-rahi&show_icons=true&include_all_commits=true&hide_border=true&border_radius=14&bg_color=1E293B&title_color=A7C4B5&icon_color=7FA99B&text_color=E2E8F0" />
-  <img height="170" src="https://YOUR-STATS-URL/api/top-langs/?username=sadia-mehrin-rahi&layout=compact&hide_border=true&border_radius=14&bg_color=1E293B&title_color=A7C4B5&text_color=E2E8F0" />
+  <img height="170" src="https://sadia-stats.vercel.app/api?username=sadia-mehrin-rahi&show_icons=true&include_all_commits=true&hide_border=true&border_radius=14&bg_color=1E293B&title_color=A7C4B5&icon_color=7FA99B&text_color=E2E8F0" />
+  <img height="170" src="https://sadia-stats.vercel.app/api/top-langs/?username=sadia-mehrin-rahi&layout=compact&hide_border=true&border_radius=14&bg_color=1E293B&title_color=A7C4B5&text_color=E2E8F0" />
 </p>
--->
+
 
 <!-- ============ FOOTER ============ -->
 <p align="center">
