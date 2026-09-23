@@ -13,7 +13,7 @@
   <a href="https://scholar.google.com/citations?user=mkaPiNQAAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-1E293B?style=for-the-badge&logo=googlescholar&logoColor=A7C4B5" /></a>
   <a href="https://orcid.org/0009-0002-6581-5182"><img src="https://img.shields.io/badge/ORCID-1E293B?style=for-the-badge&logo=orcid&logoColor=A7C4B5" /></a>
   <a href="https://www.researchgate.net/profile/Sadia-Rahi-2"><img src="https://img.shields.io/badge/ResearchGate-1E293B?style=for-the-badge&logo=researchgate&logoColor=A7C4B5" /></a>
-  <a href="mailto:sadia.mehrin.rahi@gmail.com"><img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=A7C4B5" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sadia.mehrin.rahi@gmail.com"><img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=A7C4B5" /></a>
   <a href="https://sadia-mehrin-rahi.vercel.app/Sadia_Mehrin_Rahi_CV.pdf"><img src="https://img.shields.io/badge/CV-1E293B?style=for-the-badge&logo=readdotcv&logoColor=A7C4B5" /></a>
 </p>
 
