@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://sadia-mehrin-rahi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1E293B?style=for-the-badge&logo=vercel&logoColor=A7C4B5" /></a>
-  <a href="https://www.linkedin.com/in/sadiamehrinrahi/"><img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0E3QzRCNSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" /></a>
+  <a href="https://www.linkedin.com/in/sadia-mehrin-rahi/"><img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0E3QzRCNSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" /></a>
   <a href="https://scholar.google.com/citations?user=mkaPiNQAAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-1E293B?style=for-the-badge&logo=googlescholar&logoColor=A7C4B5" /></a>
   <a href="https://orcid.org/0009-0002-6581-5182"><img src="https://img.shields.io/badge/ORCID-1E293B?style=for-the-badge&logo=orcid&logoColor=A7C4B5" /></a>
   <a href="https://www.researchgate.net/profile/Sadia-Rahi-2"><img src="https://img.shields.io/badge/ResearchGate-1E293B?style=for-the-badge&logo=researchgate&logoColor=A7C4B5" /></a>
@@ -48,7 +48,7 @@ Currently I'm a Full Stack Development Intern (remote) at **CodeAlpha** and a St
 
 ### Featured Project: RT-DeepNIDS
 
-**A Real-Time Hybrid Network Intrusion Detection System For IT & IoT Environments** (undergraduate thesis)
+**A Real-Time Hybrid Network Intrusion Detection System For IT & IoT Environments** (undergraduate thesis, built with a team of five)
 
 Live packet capture with Scapy, a Streamlit dashboard that refreshes every half second and SHAP explanations for every prediction. Trained and compared 5 models (XGBoost, CNN+Transformer, CNN-GRU, Random Forest, Decision Tree) on CIC-IDS-2017, CIC-IDS-2018 and ToN-IoT.
 
@@ -98,10 +98,10 @@ Article: [Understanding XSS in Depth: Practical Attacks & Analysis Using DVWA](h
 
 ### Leadership
 
-- Joint General Secretary — **IEEE BUBT Student Branch**
-- General Secretary — **IEEE BUBT WIE Affinity Group**
-- Joint General Secretary — **IEEE RAS BUBT Chapter**
-- Technical Team — **ICPC Asia Dhaka Regional Contest 2025**
+- Joint General Secretary — **IEEE BUBT Student Branch** (2025–2026)
+- General Secretary — **IEEE BUBT WIE Affinity Group** (2025–2026)
+- Joint General Secretary — **IEEE RAS BUBT Chapter** (2025–2026)
+- Technical Team — **ICPC Asia Dhaka Regional Contest** (2025)
 
 ---
 
@@ -119,5 +119,5 @@ Article: [Understanding XSS in Depth: Practical Attacks & Analysis Using DVWA](h
 
 <!-- ============ FOOTER ============ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7FA99B,50:A7C4B5,100:C9DCD4&height=120&section=footer&text=Let's%20build%20something%20useful%20%E2%80%94%20and%20secure&fontSize=17&fontColor=1E293B&fontAlignY=72&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7FA99B,50:A7C4B5,100:C9DCD4&height=120&section=footer&text=Let's%20build%20secure%2C%20intelligent%20software%20together&fontSize=17&fontColor=1E293B&fontAlignY=72&animation=fadeIn" />
 </p>
